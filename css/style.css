@@ -39,6 +39,7 @@
 
 .site-header nav a img{
   height: 28px;
+  width: auto;
   margin: 0 0.3em;
 }
 
