@@ -105,6 +105,10 @@ hr {
   list-style-type: none;
 }
 
+.no-bullet li {
+  list-style-type: none;
+}
+
 a {
   color: #9e3c3c;
 }
