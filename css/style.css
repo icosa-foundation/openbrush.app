@@ -49,6 +49,7 @@
 
 .main-bg {
   background: url('../assets/bg.jpg');
+  background-size: cover;
   margin: 0!important;
   margin-top: -10em!important;
   padding-top: 10em!important;

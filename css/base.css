@@ -67,3 +67,19 @@
     flex: 1;
   }
 }
+
+.store-links a.btn {
+  border: #fafafa solid 0.1em;
+  border-radius: 4px;
+  color: #fafafa;
+  font-size: 1.6em;
+  margin: 1em;
+  -webkit-box-shadow: -3px 5px 8px 5px #282626; 
+  box-shadow: -3px 5px 8px 5px #282626;
+  width: 8em;
+}
+.store-links a.btn:hover {
+  color: #fafafa;
+  background: #0d6efd;
+  border: #0d6efd solid 0.1em;
+}
